@@ -1,0 +1,3 @@
+volumes:
+  - name:  data
+    mount: /var/www/html
